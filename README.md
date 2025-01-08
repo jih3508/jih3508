@@ -72,7 +72,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" />
-  <br/>
+</div>
+
+<h3 align='center'>Tools</h3>
+<div align='center'>
+  <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=flat-square&logo=eclipse%20ide&logoColor=white" />
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=flat-square&logo=intellij%20idea&logoColor=white" />
   <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=flat-square&logo=pycharm&logoColor=white" />
