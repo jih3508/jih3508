@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ## 🔔My Algorithm Stats 
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jih3508)](https://solved.ac/jih3508)
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jih3508)](https://solved.ac/jih3508)  
   ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=DM%20Serif%20Text&ext=heatmap)
 ## 🔔Most Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jih3508&layout=compact&theme=radical)  
